@@ -94,7 +94,7 @@ Tool ringan untuk membantu melakukan pengecekan otomatis pada target WordPress, 
 git clone https://github.com/xxkrit/Stranger-WP-CHECKER.git
 
 </div>
-
+```
 ---
 
 ## 📋 Daftar Isi
