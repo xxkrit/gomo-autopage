@@ -92,9 +92,9 @@ Tool ringan untuk membantu melakukan pengecekan otomatis pada target WordPress, 
 
 ```bash
 git clone https://github.com/xxkrit/Stranger-WP-CHECKER.git
-
-</div>
 ```
+</div>
+
 ---
 
 ## 📋 Daftar Isi
